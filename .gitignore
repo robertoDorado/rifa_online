@@ -2,7 +2,7 @@ pages/controller/contato.controller.php
 pages/controller/forgot-password.controller.php
 pages/controller/register-affiliate.controller.php
 pages/controller/register-client.controller.php
-# class/conection-bd.class.php
+class/conection-bd.class.php
 vendor/almasaeed2010/adminlte/class/conection-bd.class.php
 vendor/almasaeed2010/adminlte/class/json-registrar-sorteio.class.php
 vendor/phpmailer
