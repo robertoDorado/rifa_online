@@ -1,0 +1,27 @@
+{
+    "name": "erwane/line-awesome",
+    "description": "Replace Font Awesome with modern line icons https://icons8.com/line-awesome",
+    "type": "component",
+    "homepage": "https://icons8.com/line-awesome",
+    "keywords": [
+        "font",
+        "awesome",
+        "icons",
+        "icons8",
+        "line-awesome",
+        "font-awesome"
+    ],
+    "license": "MIT",
+    "extra": {
+        "component": {
+            "styles": [
+                "css/line-awesome.css"
+            ],
+            "files": [
+                "css/*.css",
+                "fonts/*",
+                "scss/*"
+            ]
+        }
+    }
+}

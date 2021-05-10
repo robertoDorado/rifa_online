@@ -1,0 +1,31 @@
+- Login e senha do cliente e do Admin - entrega dia 22/03 (ok)
+- Rifa de games.
+- Criar Admin organizador
+- Opção de remarcar o sorteio caso não atinja o número de participantes.
+- O usuário criar o sorteio.
+- Criação da logomarca.
+- Home one selecionada (dark).
+- pode mudar a cor do guardachuva na logo.
+- Formas de pagamento (boleto e cartão de crédito - Vai ser definido ainda).
+- Mostrar os detalhes dos usuários no admin.
+- O admin vai realizar o sorteio para os participantes através de um botão no admin.
+- Detalhes do concurso um escolhido.
+- Opção de comprar bilhetes somente para clientes que tem login e senha.
+- Criação de blog via admin.
+- Selecionado detalhes da loteria um.
+- Selecionado blog posts.
+- Página de mercsdo para adsense.
+- Link de afiliados - comissão para o usuário 5% por indicação - sem níveis
+
+- O admin.
+ - Visualizaos usuarios e tickets.
+ - Descrição
+ - Prazo
+ - Valor do ticket
+ - Regras
+ - Data de expiração.
+ - Fotos.
+ - Quantidades de tickets.
+ - Blog.
+
+- Páginas de políticas e privacidade no rodapé.
